@@ -1,0 +1,24 @@
+{
+  "schemaVersion": 2,
+  "productId": "invitebot",
+  "channel": "stable",
+  "architecture": "win-x64",
+  "sequence": 202611110334,
+  "version": "0.1.6",
+  "publishedUtc": "2026-11-11T03:35:34Z",
+  "expiresUtc": "2027-11-11T03:35:34Z",
+  "minimumSupportedVersion": "0.0.1",
+  "full": {
+    "assetName": "InviteBot-0.1.6-win-x64-full.zip",
+    "bytes": 236855914,
+    "sha256": "1cf1a7705c184e08c25b6abac729cfdd259313ea96eb9ca093d1fbb3849f5b6f"
+  },
+  "delta": {
+    "baseVersion": "0.1.5",
+    "assetName": "InviteBot-0.1.5-to-0.1.6-win-x64-delta.zip",
+    "bytes": 67151553,
+    "sha256": "53bda78baafc9ca25e3b605ea4e2e748f38b276a0a0e3248fd8e305c0af14370"
+  },
+  "releaseNotesUrl": "https://github.com/whats91/invitebot-updater/releases/tag/v0.1.6",
+  "keyId": "invitebot-update-2026-11"
+}
